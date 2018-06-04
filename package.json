@@ -1,0 +1,24 @@
+{
+  "name": "reputation-engine",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TBD\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhrgv-bolla/reputation-engine.git"
+  },
+  "keywords": [
+    "reputation",
+    "engine",
+    "democracy"
+  ],
+  "author": "Bhargav Bolla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhrgv-bolla/reputation-engine/issues"
+  },
+  "homepage": "https://github.com/bhrgv-bolla/reputation-engine#readme"
+}
